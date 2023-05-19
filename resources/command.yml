@@ -1,0 +1,3 @@
+command: worldchat
+description: "Change world chat messages"
+aliases: [ "wc", "format", "dunyasohbet" ]

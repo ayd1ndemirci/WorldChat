@@ -1,0 +1,9 @@
+name: WorldChat
+main: ayd1ndemirci\WorldChat\Main
+api: 4.0.0
+version: 1
+author: ayd1ndemirci
+
+permissions:
+  worldchat.perm:
+    default: op
