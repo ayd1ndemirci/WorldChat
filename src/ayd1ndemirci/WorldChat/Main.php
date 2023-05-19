@@ -49,7 +49,6 @@ class Main extends PluginBase
      */
     public function onEnable(): void
     {
-        $this->getLogger()->info("WorldChat active - https://github.com/ayd1ndemirci");
         if (!$this->getData()->exists("language")) {
             $this->getData()->set("language", "en");
             $this->getData()->save();
