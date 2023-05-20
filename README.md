@@ -12,5 +12,5 @@ example: /worldchat new lobby §7[§aLobby§7]
 "/worldchat delete worldName" to delete world format
 example: /worldchat delete lobby
 
-Set "/worldchat worldName newFormat" to update current format
+Set "/worldchat set worldName newFormat" to update current format
 example: /worldchat set lobby §7[§2L§7]
