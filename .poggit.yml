@@ -4,5 +4,5 @@ branches:
 - main
 projects:
   WorldChat:
-    path: "image.png"
+    path: ""
 ...
